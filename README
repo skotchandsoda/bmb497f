@@ -1,0 +1,28 @@
+                            Unnamed BMB-497F Project
+
+These are the release notes for an unnamed BMB 497F project.  The project will
+most likely cover DeBruijn graph representations for certain repeat families in
+the human genome.
+
+PROJECT SCOPE
+
+  Beyond the fact that the project will have something to do with DeBruijn
+  graphs, the project scope has yet to be determined.
+
+BUILDING
+
+  In the src/ subdirectory, make the program:
+
+    make
+
+USAGE
+
+  After building the program (see BUILDING, above), run the program:
+
+    ./prog
+
+SEE ALSO
+
+  http://en.wikipedia.org/wiki/De_Bruijn_graph
+  http://www.ebi.ac.uk/~zerbino/velvet/
+  
