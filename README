@@ -11,13 +11,14 @@ PROJECT SCOPE
 
 BUILDING
 
-  In the src/ subdirectory, make the program:
+  prog.c is standard ANSI C; all you need is an ANSI-compliant C compiler and
+  you're set.  In the src/ subdirectory, simply make the program:
 
     make
 
 USAGE
 
-  After building the program (see BUILDING, above), run the program:
+  After building the program (see BUILDING), run the program:
 
     ./prog
 
@@ -25,4 +26,3 @@ SEE ALSO
 
   http://en.wikipedia.org/wiki/De_Bruijn_graph
   http://www.ebi.ac.uk/~zerbino/velvet/
-  
