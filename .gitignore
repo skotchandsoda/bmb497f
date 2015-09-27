@@ -1,2 +1,8 @@
+# Ignore tilde-file autosaves
 *~
+
+# Ignore object files and archives
 *.[oa]
+
+# Ignore the binary itself
+src/prog
